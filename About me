@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>About Diana Kempe</title>
+		<style>
+  body {
+      background-color: #FF1493;
+  }
+  </style>
+	</head>
+	<body>
+		<h1>About me</h1>
+		<p>
+			<strong>Name:</strong>
+			Diana Katarina Siri Kempe
+		</p>
+		<p>
+			<strong>Age:</strong>
+			19 years old
+		</p>
+		<p>
+			<strong>Birthday:</strong>
+			20th of February 1999
+		</p>
+		<p>
+			<strong>Nationality:</strong>
+			Swedish
+		</p>
+		<p>
+			<strong>Countries I have lived in:</strong>
+			Sweden, the UK and the USA
+		</p>
+		<p>
+			<strong>Studying:</strong>
+			Journalism and Design at The New School in New York City
+		</p>
+		<p>
+			<strong>Favourite colour:</strong>
+			Pink or yellow
+		</p>
+		<p>
+			<strong>Favourite food:</strong>
+			Anything that is spicy!!
+		</p>
+		<p>
+			<strong>Favourite place to visit:</strong>
+			Palma de Mallorca
+		</p>
+		<p>
+			<strong>Instagram profile:</strong>
+			<a href="https://www.instagram.com/dianakempe">@dianakempe</a>
+		</p>
+	</body>
+</html>
