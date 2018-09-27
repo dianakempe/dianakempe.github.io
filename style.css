@@ -1,6 +1,18 @@
+ body {
+      background-color: black;
+  }
 
 h1 {
-  Color: #A6002A;
+  Color: white;
   font-size: 50px;
 }
 
+#pink { 
+	color= #FF00BD;
+
+}
+
+#yellow {
+	color: #FFE800;
+
+}
