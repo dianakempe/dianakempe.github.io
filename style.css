@@ -1,7 +1,10 @@
  body {
-	 color: white
       background-color: black;
   }
+
+p {
+	color: white;
+}
 
 h1 {
   Color: white;
