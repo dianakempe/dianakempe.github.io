@@ -1,6 +1,6 @@
  body {
+	 color: white
       background-color: black;
-	color : white;
   }
 
 h1 {
@@ -9,11 +9,11 @@ h1 {
 }
 
 #pink { 
-	color: pink;
+	color:pink;
 
 }
 
 #yellow {
-	color: yellow;
+	color:yellow;
 
 }
