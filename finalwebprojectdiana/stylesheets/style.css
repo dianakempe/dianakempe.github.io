@@ -7,15 +7,15 @@ body, html {
     text-align: center;
 }
 
-/* The hero image */
+
 .hero-image {
-    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("ari.png");
 
-    /* Set a specific height */
+  
     height: 50%;
 
-    /* Position and center the image to scale nicely on all screens */
+   
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,19 +31,19 @@ body, html {
     text-decoration: none;
 }
 
-/* Add a hover effect if you want */
+
 .fa:hover {
     opacity: 0.7;
 }
 
 
 
-/* Facebook */
+
 .fa-facebook {
     background: #3B5998;
     color: whit;
 }
-/* Twitter */
+
 .fa-twitter {
     background: #55ACEE;
     color: white;
