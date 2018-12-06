@@ -1,8 +1,6 @@
-//. 1. Grab our HTML element
 
 var ctx = document.getElementById("myChart").getContext("2d");
 
-//. 2. Build the Chart
 
 var myChart = new Chart(ctx, {
 	type: "pie",
